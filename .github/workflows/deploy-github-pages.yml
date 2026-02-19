@@ -44,7 +44,7 @@ env:
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
   TXT_APP_LOGO_URL: ''
   # The first heading, (only) visible on the main-page
-  TXT_MAIN_PAGE_HEADER: ''
+  TXT_MAIN_PAGE_HEADER: 'Lotje - My User Manual'
   # The (optional) introduction text, (only) visible on the main-page.
   # Can be multiple-lines of Markdown syntax or contain some HTML. Newlines need to be specified with `\n` or `<br />`.
   TXT_MAIN_PAGE_INTRO: >-
@@ -95,10 +95,10 @@ env:
     info
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
-    Information
+    My User Manual
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    1QrQnPqV5HapxVc4ojQCVKBxehfEm3h_ZNkRbizSBJMs
 
 # #############################################################################
 #
